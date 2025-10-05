@@ -109,7 +109,7 @@ CSS
 ```
 
 ## OUTPUT:
-![alt text](Saveethaeventapp.png)
+![alt text](Saveethaevent.jpg)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
